@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.circleci
+.eslintrs.js
+.gitignore
+.dockerignore
+Dockerfile
+LICENSE
+README.md
+.git
